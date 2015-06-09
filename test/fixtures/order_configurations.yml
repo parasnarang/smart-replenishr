@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  url: MyText
+  listing_id: MyString
+  threshold: 9.99
+  times_called: 1
+  user_id: 
+  device_id: 
+
+two:
+  name: MyString
+  url: MyText
+  listing_id: MyString
+  threshold: 9.99
+  times_called: 1
+  user_id: 
+  device_id: 
